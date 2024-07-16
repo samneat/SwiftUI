@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		207F270F2C4677300068BE8D /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207F270E2C4677300068BE8D /* LandmarkRow.swift */; };
 		20CD646E2C46680B00D2DFDA /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD646D2C46680B00D2DFDA /* LandmarksApp.swift */; };
 		20CD64702C46680B00D2DFDA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD646F2C46680B00D2DFDA /* ContentView.swift */; };
 		20CD64722C46680E00D2DFDA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 20CD64712C46680E00D2DFDA /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		207F270E2C4677300068BE8D /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		20CD646A2C46680B00D2DFDA /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		20CD646D2C46680B00D2DFDA /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		20CD646F2C46680B00D2DFDA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				20CD646F2C46680B00D2DFDA /* ContentView.swift */,
 				20CD647D2C466A6F00D2DFDA /* CircleImage.swift */,
 				20CD647F2C466BBD00D2DFDA /* MapView.swift */,
+				207F270E2C4677300068BE8D /* LandmarkRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 				20CD646E2C46680B00D2DFDA /* LandmarksApp.swift in Sources */,
 				20CD647E2C466A6F00D2DFDA /* CircleImage.swift in Sources */,
 				20CD64842C466F7D00D2DFDA /* Landmark.swift in Sources */,
+				207F270F2C4677300068BE8D /* LandmarkRow.swift in Sources */,
 				20CD64882C4672D700D2DFDA /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
